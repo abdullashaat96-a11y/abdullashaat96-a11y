@@ -2,7 +2,7 @@
 
 Engineer and founder in Doha, Qatar. I build and ship full-stack products end to end, from schema to deployment.
 
-- 🛠 Project Lead, Digital Incubation Center @ Ibtechar
+- 🛠 Project Lead, startup incubation programs
 - 🎓 MSc Chemical Engineering · BSc Petroleum Engineering (Texas A&M at Qatar)
 - ⚙️ Former process engineer, McDermott
 
@@ -23,7 +23,7 @@ React · React Native / Expo · Supabase (Postgres, Auth, RLS) · Vercel · Odoo
 
 ## Professional Work (Selected, Anonymized)
 
-Developer at an innovation and capacity-building organization in Qatar.
+Project Lead at an innovation and capacity-building organization in Qatar.
 Project, client, and platform names are withheld for confidentiality.
 
 ### Multi-Tenant Incubation Management Platform
