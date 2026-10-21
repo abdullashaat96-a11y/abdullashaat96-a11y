@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Abdullah 👋
 
-<!--
-**abdullashaat96-a11y/abdullashaat96-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineer and founder in Doha, Qatar. I build and ship full-stack products end to end, from schema to deployment.
 
-Here are some ideas to get you started:
+- 🛠 Project Lead, Digital Incubation Center @ Ibtechar
+- 🎓 MSc Chemical Engineering · BSc Petroleum Engineering (Texas A&M at Qatar)
+- ⚙️ Former process engineer, McDermott
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+React · React Native / Expo · Supabase (Postgres, Auth, RLS) · Vercel · Odoo
+
+### Things I've built
+
+- **World Cup prediction pool:** React + Supabase app for a private league with 104 fixtures, knockout and award picks, live leaderboard, admin tools
+- **Odoo dashboards:** custom executive and client dashboards on Odoo 18
+
+Most of my work is in private repos. Happy to walk judges through the code.
